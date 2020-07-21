@@ -9,6 +9,6 @@ The following user stories will be true:
 
 * As a store owner, I want the option to override the warning so that I can give additional donuts under exceptional circumstances. This should also be tracked.
 
-* As a store owner, at any time I should be able to enter an ID to see a persons donut record.
+* As a store owner, at any time I should be able to enter an ID to see a person's donut record.
 
 
